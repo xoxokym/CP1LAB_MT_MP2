@@ -1,0 +1,14 @@
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Monteagudo_Kim_MidMP2\Project 2\Project 2\obj\Debug\Project 2.pdb

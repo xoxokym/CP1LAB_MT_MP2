@@ -1,0 +1,7 @@
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\obj\Debug\Project 3.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\bin\Debug\Project 3.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\bin\Debug\Project 3.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\bin\Debug\Project 3.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\obj\Debug\Project 3.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\Project 3\Project 3\obj\Debug\Project 3.pdb
